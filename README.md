@@ -1,75 +1,40 @@
-# Nuxt 3 Minimal Starter
+# Office Hour Calculator
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/office-hour-calculator?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/your-username/office-hour-calculator?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/your-username/office-hour-calculator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/your-username/office-hour-calculator?style=for-the-badge)
 
-## Setup
+> A Nuxt.js web application that calculates the office exit time based on input information. Considering a standard working day of 8 hours and 45 minutes.
 
-Make sure to install the dependencies:
+---
 
-```bash
-# npm
-npm install
+## Features
 
-# pnpm
-pnpm install
+- **Automatic Calculation:** Provides an automatic calculation of the office exit time based on the entered input information.
+- **Customization:** Allows users to input the entry time and the actual worked hours to get a personalized result.
+- **Clear Display:** Clearly displays the calculated exit time with a clean and intuitive presentation.
 
-# yarn
-yarn install
+---
 
-# bun
-bun install
-```
+## Usage Instructions
 
-## Development Server
+1. **Enter Entry Time:** In the "Entrance Time" section, enter the entry time by specifying the desired hours and minutes.
+2. **Enter Worked Hours:** In the "Hours Worked" section, input the number of actually worked hours.
+3. **Calculate:** The app will automatically calculate and display the expected exit time.
 
-Start the development server on `http://localhost:3000`:
+---
 
-```bash
-# npm
-npm run dev
+## Authors
 
-# pnpm
-pnpm run dev
+- [Your Name](https://github.com/your-username)
 
-# yarn
-yarn dev
+---
 
-# bun
-bun run dev
-```
+## License
 
-## Production
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Build the application for production:
+--- 
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+🚀 **Enjoy calculating your exit time!** 🚀

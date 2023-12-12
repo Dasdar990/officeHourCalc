@@ -33,6 +33,7 @@ export default {
   },
   methods: {
     resetTimes() {
+      this.entranceTime = '';
       Object.keys(this.$refs).forEach(ref => {this.$refs[ref].resetFields()});
     }
   },
