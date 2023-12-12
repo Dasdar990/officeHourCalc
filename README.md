@@ -1,9 +1,9 @@
 # Office Hour Calculator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/office-hour-calculator?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/office-hour-calculator?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/office-hour-calculator?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/office-hour-calculator?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Dasdar990/office-hour-calculator?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Dasdar990/office-hour-calculator?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Dasdar990/office-hour-calculator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Dasdar990/office-hour-calculator?style=for-the-badge)
 
 > A Nuxt.js web application that calculates the office exit time based on input information. Considering a standard working day of 8 hours and 45 minutes.
 
@@ -27,7 +27,7 @@
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
+- Interlandi Emilio
 
 ---
 
